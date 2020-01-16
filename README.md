@@ -15,6 +15,13 @@ Standalone Server
 $ LARAVEL_NOW="1999-7-31 23:59:59" php artisan serve
 ```
 
+Command
+
+```sh
+$ LARAVEL_NOW=1999-12-31 php artisan app:command
+$ LARAVEL_NOW=yesterday php artisan app:daily-job
+```
+
 Tinker
 
 ```sh
