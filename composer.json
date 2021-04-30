@@ -2,7 +2,7 @@
     "name": "grohiro/laravel-now",
     "type": "library",
     "require-dev": {
-        "laravel/framework": "5.8"
+        "laravel/framework": "6.20.26"
     },
     "license": "MIT",
     "authors": [
